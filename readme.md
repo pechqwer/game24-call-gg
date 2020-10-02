@@ -1,4 +1,6 @@
 ##Test Jenosize
+
+
 วิธีใช้งาน
 
 1. clone project 
@@ -7,4 +9,6 @@
 
 
 find-restaurant => /restaurant/:text
+
+
 game24 => /game24/:value1/:value2/:value3/:value4/
