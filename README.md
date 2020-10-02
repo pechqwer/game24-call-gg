@@ -1,7 +1,7 @@
-##Test Jenosize
+# Test Jenosize
 
 
-วิธีใช้งาน
+## วิธีใช้งาน
 
 1. clone project 
 2. npm i
