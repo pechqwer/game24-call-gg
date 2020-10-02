@@ -1,0 +1,25 @@
+{
+  "name": "jenosize",
+  "version": "0.1.0",
+  "description": "game24 and call-api-restaurant (by-api-place)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game24",
+    "api-restaurant"
+  ],
+  "author": "chanasuek.c@ku.th",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
